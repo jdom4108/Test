@@ -1,1 +1,8 @@
 hhhhshshshshshshshhshshs
+for (var i = 0; i < 10; i++){
+  if(Snap == 200){
+    explode;
+  }else{
+    runAway;
+  }
+}
